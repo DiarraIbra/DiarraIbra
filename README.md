@@ -2,7 +2,7 @@ Hi there, I'm DIARRA Ibrahima 👋
 Typing SVG
 
 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/ibrahima-diarra-59bb3b288)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahima-diarra-59bb3b288/)
 [![Email](https://img.shields.io/badge/Email-ABABAB?style=flat&logo=gmail&logoColor=white)](mailto:ibrahimadiarraibou@gmail.com)
 
 📚 About Me
