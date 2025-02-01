@@ -1,7 +1,7 @@
 # Hi there, I'm DIARRA Ibrahima 👋
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Hi+there%2C+I'm+Aboubacar!;I+love+reading;I+have+a+passion+for+problem+solving)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Hi+there%2C+I'm+Ibrahima!;I+love+reading,coding;I+have+a+passion+for+problem+solving)](https://git.io/typing-svg)
 
 ### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahima-diarra-59bb3b288/)
