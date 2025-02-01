@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahima-diarra-59bb3b288/)
 [![Email](https://img.shields.io/badge/Email-ABABAB?style=flat&logo=gmail&logoColor=white)](mailto:ibrahimadiarraibou@gmail.com)
 ### 📚 About Me
-- 🏫 Currently studying *Computer Science* student at the Guéliz Faculty of Science and Technology in Marrakech
+- 🏫 Currently studying *Computer Science* student at the Gueliz Faculty of Science and Technology in Marrakech
 - 🖋 I have a passion for *problem solving*
 - 📖 I am currently learning *Spring Boot and React*
 
