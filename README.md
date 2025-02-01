@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there, I'm Aboubacar 👋
+Typing SVG
 
-<!--
-**DiarraIbra/DiarraIbra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 How to reach me:
+LinkedIn Email
 
-Here are some ideas to get you started:
+📚 About Me
+🏫 Currently studying Computer Science at Mohammadia School of Engineers, Rabat Morocco
+🖋️ I have a passion for problem solving
+📖 I am currently learning Deep Learning
+🔧 Languages and Tools:
+               
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This README is generated with ❤ by GitHub
