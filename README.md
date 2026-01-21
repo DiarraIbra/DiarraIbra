@@ -6,7 +6,7 @@
 ### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahima-diarra-59bb3b288/)
 [![Email](https://img.shields.io/badge/Email-ABABAB?style=flat&logo=gmail&logoColor=white)](mailto:ibrahimadiarraibou@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://diarra-ibrahima-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1f2937?style=flat&logo=google-chrome&logoColor=white)](https://diarra-ibrahima-portfolio.vercel.app/)
 ### 📚 About Me
 - 🏫 Currently studying *Computer Science* student at the Gueliz Faculty of Science and Technology in Marrakech
 - 🖋 I have a passion for *problem solving*
