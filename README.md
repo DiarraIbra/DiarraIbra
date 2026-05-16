@@ -40,13 +40,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
 </p>
-### 🐍 My Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DiarraIbra/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
 
 ### ⚡ Stats
 
@@ -55,7 +48,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiarraIbra&theme=dark&hide_border=true" height="170" alt="streak graph" />
   <br>
 </div>
-
 
 
 
